@@ -24,7 +24,7 @@
       <relativePath>../parent</relativePath>
     </parent>
     <groupId>org.jboss.quickstarts.fuse</groupId>
-    <artifactId>jboss-quickstarts-fuse-parent</artifactId>
+    <artifactId>quickstart-parent</artifactId>
     <version>6.1.0.redhat-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>JBoss Fuse Quickstart: quickstarts</name>
