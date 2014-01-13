@@ -27,7 +27,7 @@
     <artifactId>secure-rest</artifactId>
     <version>6.1.0.redhat-SNAPSHOT</version>
     <packaging>bundle</packaging>
-    <name>JBoss Fuse :: Examples :: Secure Restful Web Services</name>
+    <name>JBoss Fuse Quickstart: secure-rest</name>
     <description>Secure Restful Web Services Example using JAX-RS Basic Authentication with JBoss Fuse</description>
     <url>https://github.com/jboss-fuse/fuse/tree/master/quickstarts/secure-rest</url>
     <licenses>

@@ -22,7 +22,7 @@
     <artifactId>cbr</artifactId>
     <version>6.1.0.redhat-SNAPSHOT</version>
     <packaging>bundle</packaging>
-    <name>JBoss Fuse :: Examples :: Content-Based Router</name>
+    <name>JBoss Fuse Quickstart: cbr</name>
     <description>Content-Based Router Example</description>
     <url>https://github.com/jboss-fuse/fuse/tree/master/quickstarts/cbr</url>
     <licenses>

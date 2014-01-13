@@ -27,7 +27,7 @@
     <artifactId>soap</artifactId>
     <version>6.1.0.redhat-SNAPSHOT</version>
     <packaging>bundle</packaging>
-    <name>JBoss Fuse :: Examples :: SOAP</name>
+    <name>JBoss Fuse Quickstart: soap</name>
     <description>SOAP example using JAXWS</description>
     <url>https://github.com/jboss-fuse/fuse/tree/master/quickstarts/soap</url>
     <licenses>

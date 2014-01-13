@@ -22,7 +22,7 @@
     <artifactId>errors</artifactId>
     <version>6.1.0.redhat-SNAPSHOT</version>
     <packaging>bundle</packaging>
-    <name>JBoss Fuse :: Examples :: Error Handling</name>
+    <name>JBoss Fuse Quickstart: errors</name>
     <description>Handle errors in the Camel m</description>
     <url>https://github.com/jboss-fuse/fuse/tree/master/quickstarts/errors</url>
     <licenses>

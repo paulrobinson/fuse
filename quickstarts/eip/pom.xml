@@ -22,7 +22,7 @@
     <artifactId>eip</artifactId>
     <version>6.1.0.redhat-SNAPSHOT</version>
     <packaging>bundle</packaging>
-    <name>JBoss Fuse :: Examples :: Enterprise Integration Patterns</name>
+    <name>JBoss Fuse Quickstart: eip</name>
     <description>Combine multiple EIPs into a single solution</description>
     <url>https://github.com/jboss-fuse/fuse/tree/master/quickstarts/eip</url>
     <licenses>

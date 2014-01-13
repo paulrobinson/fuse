@@ -31,7 +31,7 @@
     <artifactId>rest</artifactId>
     <version>6.1.0.redhat-SNAPSHOT</version>
     <packaging>bundle</packaging>
-    <name>JBoss Fuse :: Examples :: RESTful WebService</name>
+    <name>JBoss Fuse Quickstart: rest</name>
     <description>RESTful WebService Example using JAX-RS with JBoss Fuse</description>
     <url>https://github.com/jboss-fuse/fuse/tree/master/quickstarts/rest</url>
     <licenses>
